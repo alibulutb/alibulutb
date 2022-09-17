@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ali Bulut and i am biomedical Engineer
-- 👀 I’m interested in ... Finance, Data Analyze, Artifical Intelligence, Machine Learning and Deep Learning
+- 👋 Hi, I’m Ali Bulut and I'm Biomedical Engineer.
+- 👀 I’m interested in ... Finance, Data Analyze, Artifical Intelligence, Machine Learning and Deep Learning Algorithms.
 - 🌱 I’m currently learning ... on the uses of artificial intelligence in the fields of health and finance.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... alibulut.ablt@gmail.com
