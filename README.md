@@ -5,7 +5,7 @@
         
 <br />
 
-<h3 align="center"> You Can Reach Me From  </h3>
+<h3 align="center"> You Can Reach Me by  </h3>
 
 <div align="center">
 <a href="mailto:alibulut.ablt@gmail.com?"><img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="center" /> <a href="https://www.linkedin.com/in/ali-bulut-1a113524b?"><img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="center" /> <a href="https://twitter.com/alibulutt7?t=XjGOLZMAoO9-R8oeZ7L5bg&s=09?"><img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="center" /> <a href="https://www.kaggle.com/alibulut1/code?"><img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="center" />
