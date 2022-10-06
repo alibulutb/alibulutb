@@ -3,7 +3,7 @@
                                     
 ### You Can Reach Me Via
 
-[<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />][gmail][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
+<a href="mailto:alibulut.ablt@gmail.com?"><img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />[<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
 
 <br />
 <br />
@@ -11,7 +11,7 @@
 [linkedin]: https://www.linkedin.com/in/ali-bulut-1a113524b
 [kaggle]: https://www.kaggle.com/alibulut1/code
 [twitter]: https://twitter.com/alibulutt7?t=XjGOLZMAoO9-R8oeZ7L5bg&s=09
-[gmail]: alibulut.ablt@gmail.com
+
  
 
 
