@@ -1,11 +1,20 @@
 ## Hi There, Welcome To My Github Profile 👋 👋 👋
-#### I’m Ali Bulut and I’m working on computer vision. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, and Algorithmic Trading. I am sharing my projects here. Also, I want to develop myself on embedded systems. In particular, I am struggling to develop projects where embedded systems and machine learning models can be used together.
+#### I’m Ali Bulut and I’m Biomedical Engineer. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, and Algorithmic Trading. I am sharing my projects here. Also, I want to develop myself on embedded systems. In particular, I’m struggling to develop projects where embedded systems and machine learning models can be used together.
                                     
-                                    ### You can reach me 
+### You Can Reach Me Via
 
-[linkedin]
+[<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />][gmail][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter][<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
+
 <br />
 <br />
+
+[linkedin]: https://www.linkedin.com/in/ali-bulut-1a113524b
+[kaggle]: https://www.kaggle.com/alibulut1/code
+[twitter]: https://twitter.com/alibulutt7?t=XjGOLZMAoO9-R8oeZ7L5bg&s=09
+[gmail]: alibulut.ablt@gmail.com
+ 
+
+
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="25" height="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25">
 
