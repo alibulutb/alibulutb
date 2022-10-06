@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, Welcome To My Github Profile 👋  </h1>   
+<h1 align="center"> Hi There, Welcome To My Github Profile  </h1>   
 
 
 #### I’m Ali Bulut and I’m Biomedical Engineer. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, and Algorithmic Trading. I’m sharing my projects here. Also, I am improving myself on embedded systems. In particular, I’m working to develop projects where embedded systems and machine learning models can be used together.
