@@ -1,5 +1,8 @@
-<h1 align="center"> Hi, Welcome To My Github Profile<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="100" height="80" /></h1>   
+<h1 align="center"> Hi, Welcome To My Github Profile</h1>   
 
+<div align="center">
+<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="80" height="50" />
+</div>   
 
 #### I’m Ali Bulut and I’m Biomedical Engineer. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, and Algorithmic Trading. I’m sharing my projects here. Also, I am improving myself on embedded systems. In particular, I’m working to develop projects where embedded systems and machine learning models can be used together.
         
@@ -8,10 +11,10 @@
 <h3 align="center"> You Can Reach Me by  </h3>
 
 <div align="center">
-<a href="mailto:alibulut.ablt@gmail.com?"> <img height="35" width="35" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="center" /> 
-<a href="https://www.linkedin.com/in/ali-bulut-1a113524b?"> <img height="35" width="35" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="center" /> 
-<a href="https://twitter.com/alibulutt7?t=XjGOLZMAoO9-R8oeZ7L5bg&s=09?"> <img height="35" width="35" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="center" /> 
-<a href="https://www.kaggle.com/alibulut1/code?"> <img height="35" width="35" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="center" />
+<a href="mailto:alibulut.ablt@gmail.com?"> <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="center" /> 
+<a href="https://www.linkedin.com/in/ali-bulut-1a113524b?"> <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="center" /> 
+<a href="https://twitter.com/alibulutt7?t=XjGOLZMAoO9-R8oeZ7L5bg&s=09?"> <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="center" /> 
+<a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="center" />
 </div>     
 <br />
 
@@ -31,7 +34,8 @@
 <div align="center">
 Have a good time!
 </div>
-<br />
+
+
         
 <!---
 <div align="center">
