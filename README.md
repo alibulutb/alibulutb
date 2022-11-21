@@ -6,6 +6,10 @@
 
 <h4 align="center"> I’m Ali Bulut and I’m Biomedical Engineer. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, also Algorithmic Trading. I’m sharing my projects here.</h4> 
 
+<h4 align="center"> Also you can check my Kaggle account to see my other projects </h4>
+<div align="center">
+<a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png" align="center" />
+</div> 
 
 <!---
 Also, I am improving myself on embedded systems. In particular, I’m working to develop projects where embedded systems and machine learning models can be used together.
@@ -23,10 +27,6 @@ Also, I am improving myself on embedded systems. In particular, I’m working to
 </div>     
 
 
-<h4 align="center"> Also You Can Check My Kaggle Account to See My Other Projects </h4>
-<div align="center">
-<a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png" align="center" />
-</div> 
         
 <h3 align="center"> Languages and Tools  </h3>   
 <div align="center">
