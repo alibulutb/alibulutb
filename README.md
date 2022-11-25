@@ -4,7 +4,7 @@
 <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="80" height="50" />
 </div>   
 
-<h4 align="center"> I’m Ali Bulut and I’m Biomedical Engineer. I'm interested in Data Science, Machine Learning and Deep Learning Algorithms, also Algorithmic Trading. I’m sharing my projects here.</h4> 
+<h4 align="center"> I’m Ali Bulut and I’m biomedical engineer. I'm interested in data science, machine learning and deep learning algorithms, also algorithmic trading. I’m sharing my projects here.</h4> 
 
 <h4 align="center"> Also you can check my Kaggle account to see my other projects </h4>
 <div align="center">
