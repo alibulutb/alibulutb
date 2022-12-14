@@ -6,7 +6,7 @@
 
 <h4 align="center"> I’m Ali Bulut and I’m biomedical engineer. I'm interested in data science, machine learning and deep learning algorithms, also algorithmic trading. I’m sharing my projects here.</h4> 
 
-<h4 align="center"> Also you can check my Kaggle account to see my other projects </h4>
+<h4 align="center"> Also you can check my Kaggle account to see my other projects. </h4>
 <div align="center">
 <a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png" align="center" />
 </div> 
@@ -29,7 +29,7 @@ Also, I am improving myself on embedded systems. In particular, I’m working to
         
 <h3 align="center"> Languages and Tools  </h3>   
 <div align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="40" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" width="40" height="40">
 </div>        
 <br />
         
@@ -44,11 +44,11 @@ Also, I am improving myself on embedded systems. In particular, I’m working to
 <a href="https://medium.com/@alibulutb?"> <img height="30" width="30" src="https://camo.githubusercontent.com/62e64e26e4fb4cf9f89649ea65f9b936094bc39d99770a9165911c925ddc2e20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" align="center" />
 </div> 
  
-
+<!---
 <h1 div align="center">
 Have a good time!
 </div>
-
+--->
 
         
 <!---
