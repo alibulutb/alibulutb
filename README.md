@@ -1,23 +1,18 @@
-<h1 align="center"> Hi, Welcome To My Github Profile</h1>   
+<h1 align="center"> Hi, Welcome To My Github Profile <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="80" height="50" /> </h1>
 
-<div align="center">
-<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="80" height="50" />
-</div>   
+<h4 align="center"> Graduated as a biomedical engineer in 2022. Interested in data science, artificial intelligence, machine learning, and deep learning. </h4>
+<h4 align="center"> Particularly involved in projects in the areas of medical device, HIS, RIS, data science, machine learning, and deep learning. </h4>
+<h4 align="center"> Experienced in research and development, biomedical signal analysis, data visualization and reporting processes. </h4>
+<h4 align="center"> Continues to evolve in business administration, project management, signal processing, image processing, and embedded systems programming. </h4> 
 
-<h4 align="center"> I’m Ali Bulut and I’m biomedical engineer. I'm interested in data science, machine learning and deep learning algorithms, also algorithmic trading. I’m sharing my projects here.</h4> 
-
-<h4 align="center"> Also you can check my Kaggle account to see my other projects. </h4>
+<h4 align="center"> Also you can check my Kaggle account to see my other projects.  </h4>
 <div align="center">
 <a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png" align="center" />
 </div> 
-
-<!---
-Also, I am improving myself on embedded systems. In particular, I’m working to develop projects where embedded systems and machine learning models can be used together.
---->
         
 
 
-<h3 align="center"> You Can Reach Me by  </h3>
+<h3 align="center"> You Can Contact Me by  </h3>
 
 <div align="center">
 <a href="mailto:alibulut.ablt@gmail.com?"> <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="center" /> 
