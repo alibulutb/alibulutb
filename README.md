@@ -1,11 +1,28 @@
-<h1 align="center"> Hi, Welcome To My Github Profile <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="80" height="50" /> </h1>
+<h1 align="center"> Hi, Welcome To My Github<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="60" height="50" /> </h1>
 
-<h4 align="center"> Graduated as a biomedical engineer in 2022. Interested in data science, artificial intelligence, machine learning, and deep learning. </h4>
-<h4 align="center"> Particularly involved in projects in the areas of medical device, HIS, RIS, data science, machine learning, and deep learning. </h4>
-<h4 align="center"> Experienced in research and development, biomedical signal analysis, data visualization and reporting processes. </h4>
-<h4 align="center"> Continues to evolve in business administration, project management, signal processing, image processing, and embedded systems programming. </h4> 
+<div align="center">
+<b> Graduated as a biomedical engineer in 2022. </b>  
+</div>   
+<br />
 
-<h4 align="center"> Also you can check my Kaggle account to see my other projects.  </h4>
+<div align="center">
+<b> Interested in data science, artificial intelligence, machine learning, and deep learning. </b>  
+</div> 
+<br />
+
+<div align="center">
+<b> Experienced in research and development, healthcare data analytics, biomedical signal processing, and data visualization. </b>  
+</div>
+<br />
+
+<div align="center">
+<b> Continues to evolve in business administration, project management, signal & image processing, and embedded systems programming. </b>  
+</div>
+<br />
+
+<div align="center">
+<b> Also you can check my Kaggle account to see my other projects. </b>  
+</div>
 <div align="center">
 <a href="https://www.kaggle.com/alibulut1/code?"> <img height="30" width="30" src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png" align="center" />
 </div> 
@@ -32,18 +49,15 @@
 <div align="center">
 <img height="320" width="430" src="https://user-images.githubusercontent.com/92849974/186729417-5e5c7b23-03a0-4ef8-90ff-f7ee8ceb06bc.gif" align="center" />
 </div> 
-
+<br /> 
         
-<h4 align="center"> You can visit my medium account and see my posts on different topics. </h4>
+<div align="center">
+<b> You can visit my medium account and see my posts on different topics. </b>  
+</div>       
 <div align="center">
 <a href="https://medium.com/@alibulutb?"> <img height="30" width="30" src="https://camo.githubusercontent.com/62e64e26e4fb4cf9f89649ea65f9b936094bc39d99770a9165911c925ddc2e20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" align="center" />
 </div> 
  
-<!---
-<h1 div align="center">
-Have a good time!
-</div>
---->
 
         
 <!---
