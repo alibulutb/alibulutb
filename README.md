@@ -6,17 +6,23 @@
 <br />
 
 <div align="center">
-<b> Interested in data science, artificial intelligence, machine learning, and deep learning. </b>  
+<b> Currently working as a Calibration Engineer  </b>  
+</div>   
+<br />
+
+
+<div align="center">
+<b> Interested in data science, artificial intelligence, metrology, and electronics. </b>  
 </div> 
 <br />
 
 <div align="center">
-<b> Experienced in research and development, healthcare data analytics, biomedical signal processing, and data visualization. </b>  
+<b> Experienced in data visualization and reporting, research and development, healthcare data analytics, and calibration procedures. </b>  
 </div>
 <br />
 
 <div align="center">
-<b> Continues to evolve in business administration, project management, signal & image processing, and embedded systems programming. </b>  
+<b> Continues to evolve in project management, metrology, calibration, validation and qualification procedures. </b>  
 </div>
 <br />
 
