@@ -17,12 +17,12 @@
 <br />
 
 <div align="center">
-<b> Experienced in data visualization and reporting, research and development, healthcare data analytics, and calibration procedures. </b>  
+<b> Experienced in data visualization and reporting, research and development, healthcare data analytics, metrology, and calibration procedures. </b>  
 </div>
 <br />
 
 <div align="center">
-<b> Continues to evolve in project management, metrology, calibration, validation and qualification procedures. </b>  
+<b> Continues to evolve in statistics, data science, artificial intelligence. </b>  
 </div>
 <br />
 
