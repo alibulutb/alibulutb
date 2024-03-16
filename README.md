@@ -57,14 +57,6 @@
 </div> 
 <br /> 
         
-<div align="center">
-<b> You can visit my medium account and see my posts on different topics. </b>  
-</div>       
-<div align="center">
-<a href="https://medium.com/@alibulutb?"> <img height="30" width="30" src="https://camo.githubusercontent.com/62e64e26e4fb4cf9f89649ea65f9b936094bc39d99770a9165911c925ddc2e20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" align="center" />
-</div> 
- 
-
         
 <!---
 <div align="center">
