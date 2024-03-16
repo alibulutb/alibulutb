@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, Welcome To My Github<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="60" height="50" /> </h1>
+<h1 align="center"> Hi, Welcome To My Github
 
 <div align="center">
 <b> Graduated as a biomedical engineer in 2022. </b>  
